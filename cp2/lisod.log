@@ -1,0 +1,41 @@
+[20141007 17:35:21] Start Liso server. Server is running in background. 
+[20141007 17:35:21] Bind success! 
+[20141007 17:35:21] Create socket success: sock =  4 
+[20141007 17:35:21] Listen success! >>>>>>>>>>>>>>>>>>>> 
+[20141007 17:35:21] Bind success! 
+[20141007 17:35:21] Create socket success: sock =  5 
+[20141007 17:35:21] Listen success! >>>>>>>>>>>>>>>>>>>> 
+[20141007 17:35:25] accept client: new connection from 127.0.0.1 on socket 6
+[20141007 17:35:25] accept client: new connection from 127.0.0.1 on socket 7
+[20141007 17:35:25] Start processing request. 
+[20141007 17:35:25] Request: method=GET, uri=/, version=HTTP/1.1 
+[20141007 17:35:25] End of processing request. 
+[20141007 17:35:25] Start processing request. 
+[20141007 17:35:25] Request: method=GET, uri=/style.css, version=HTTP/1.1 
+[20141007 17:35:25] End of processing request. 
+[20141007 17:35:25] accept client: new connection from 127.0.0.1 on socket 6
+[20141007 17:35:25] Start processing request. 
+[20141007 17:35:25] Request: method=GET, uri=/images/liso_header.png, version=HTTP/1.1 
+[20141007 17:35:25] End of processing request. 
+[20141007 17:35:25] accept client: new connection from 127.0.0.1 on socket 6
+[20141007 17:35:25] Start processing request. 
+[20141007 17:35:25] Request: method=GET, uri=/favicon.ico, version=HTTP/1.1 
+[20141007 17:35:25] Error: Cann't open file 
+[20141007 17:35:25] End of processing request. 
+[20141007 17:35:27] accept client: new connection from 127.0.0.1 on socket 6
+[20141007 17:35:27] accept client: new connection from 127.0.0.1 on socket 7
+[20141007 17:35:27] Start processing request. 
+[20141007 17:35:27] Request: method=GET, uri=/, version=HTTP/1.1 
+[20141007 17:35:27] End of processing request. 
+[20141007 17:35:27] accept client: new connection from 127.0.0.1 on socket 6
+[20141007 17:35:27] Start processing request. 
+[20141007 17:35:27] Request: method=GET, uri=/style.css, version=HTTP/1.1 
+[20141007 17:35:27] End of processing request. 
+[20141007 17:35:27] Start processing request. 
+[20141007 17:35:27] Request: method=GET, uri=/images/liso_header.png, version=HTTP/1.1 
+[20141007 17:35:27] End of processing request. 
+[20141007 17:35:27] accept client: new connection from 127.0.0.1 on socket 6
+[20141007 17:35:27] Start processing request. 
+[20141007 17:35:27] Request: method=GET, uri=/favicon.ico, version=HTTP/1.1 
+[20141007 17:35:27] Error: Cann't open file 
+[20141007 17:35:27] End of processing request. 

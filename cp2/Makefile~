@@ -14,7 +14,7 @@ EXES = lisod
 all: $(EXES)
 
 lisod:
-	$(CC) $(CFLAGS) lisod.c log.c -g -o lisod
+	$(CC) $(CFLAGS) help.c log.c lisod.c -g -o lisod
 
 clean:
 	@rm -rf $(EXES) lisod.log lisod.lock

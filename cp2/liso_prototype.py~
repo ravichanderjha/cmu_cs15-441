@@ -8,7 +8,7 @@ import BaseHTTPServer
 import SocketServer
 
 # hard-coded configurtion
-WWW = 'static_site'
+WWW = '/tmp/www/'
 PORT = 8080
 MIME = {
             '.html' : 'text/html',
